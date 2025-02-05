@@ -37,7 +37,7 @@ Metrics: Accuracy, Precision, Recall
 Installation & Setup
 1. Clone the Repository
    
-git clone https://github.com/yourusername/skin-cancer-detection.git
+git clone https://github.com/maria0041/skin-cancer-detection.git
 
 cd skin-cancer-detection
 
