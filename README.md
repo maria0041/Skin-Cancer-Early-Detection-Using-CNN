@@ -4,8 +4,6 @@
 
 Achieved 88.55% accuracy on the ISIC 2024 dataset, demonstrating the potential of deep learning for improving skin cancer diagnosis.
 
-**[Repository](https://github.com/maria0041/skin-cancer-detection.git)**
-
 ## Overview
 
 This project utilizes Convolutional Neural Networks (CNNs) to detect skin cancer from dermoscopic images.  Trained on the ISIC 2024 Skin Cancer Detection Challenge dataset, the model classifies skin lesions as benign or malignant. The results show that CNNs can learn complex image features and generalize well, highlighting their potential for improving diagnostic accuracy and efficiency.
@@ -36,6 +34,8 @@ This project utilizes Convolutional Neural Networks (CNNs) to detect skin cancer
 *   **Loss Function:** Binary Cross-Entropy.
 *   **Optimizer:** Adam.
 *   **Metrics:** Accuracy, Precision, Recall.
+
+![image](https://github.com/user-attachments/assets/59c408ba-705c-4d5a-a6a9-762f9c872030)
 
 ## Installation & Setup
 
