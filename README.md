@@ -23,6 +23,8 @@ This project utilizes Convolutional Neural Networks (CNNs) to detect skin cancer
     *   Resized to 224x224.
     *   Normalized.
     *   Augmented for better generalization.
+    *   ![image](https://github.com/user-attachments/assets/6f0a7d96-730c-4103-87ae-4b8f892f8ab2)
+
 
 ## Model Architecture
 
